@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./favorite.component.css']
 })
 
-export class FavoriteComponent {
+export class FavoriteComponent { //test commit
   isFavorite: boolean = false; 
   ngOnInit() {
 
